@@ -195,7 +195,7 @@ require('lazy').setup({
         },
         highlights = {
           buffer_selected = {
-            bg = '#091936',
+            bg = '#141f33',
             italic = false,
           },
           buffer_visible = {
